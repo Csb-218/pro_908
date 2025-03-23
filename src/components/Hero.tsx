@@ -6,7 +6,7 @@ import {} from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="flex items-center justify-center gap-x-5 px-12">
+    <div className="flex items-center justify-center gap-x-5 px-12 my-5">
       {/* left content */}
       <div className="flex flex-col items-start justify-start gap-y-6 w-1/2">
         <h1 className="text-6xl font-bold">Slack is where the future works</h1>
