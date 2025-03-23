@@ -21,7 +21,7 @@ const Hero = () => {
             TRY FOR FREE
           </Button>
           {/* CTA sign up with google */}
-          <Button variant="outline" className="h-12 rounded bg-blue-400 text-white p-1">
+          <Button variant="outline" className="h-12 rounded bg-blue-400 hover:bg-white text-white p-1">
             <img src={google} className="bg-white h-10 p-1"></img>
             Sign up with Google
           </Button>
